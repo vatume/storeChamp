@@ -1,4 +1,7 @@
 # Nombe del repo
-cosas aca
+Minka&Champi food store
 # Para configurar el proyecto
-cosas por hacer
+An ecomerce app pointed to offer the products of a farm.
+trying to make the app visually appealing,
+on permanent construction,
+developing the app while the farm business is teaking its form.
